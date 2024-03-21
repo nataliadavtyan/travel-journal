@@ -3,7 +3,7 @@
 This is a rebuild of a fictional travel journal featuring information about the three latest trips, prepared for a workshop on using Styled Components.
 
 ## Features
-The journal includes the dates, location and description about the trips.
+The journal includes the dates, locations and descriptions about the trips.
 
 ## Technologies
 The project is built using:
@@ -13,4 +13,4 @@ The project is built using:
 * Vite
 
 ## Project status
-The project is complete and saved as a reference for the students.
+The journal includes information about the dates, locations, and descriptions of the trips.
