@@ -13,4 +13,4 @@ The project is built using:
 * Vite
 
 ## Project status
-The journal includes information about the dates, locations, and descriptions of the trips.
+The project is complete and saved as a reference for the students.
