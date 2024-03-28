@@ -9,7 +9,7 @@ The journal includes the dates, locations and descriptions about the trips.
 The project is built using:
 * React
 * JavaScript
-* Syled Components
+* Styled Components
 * Vite
 
 ## Project status
